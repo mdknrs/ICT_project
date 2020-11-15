@@ -1,4 +1,4 @@
 # ICT_project
 **MADINA KUANYSHEVA**, **AIDANA ASSARBAYEVA**
 
-![ERD] (Database ER diagram (crow's foot).png)
+![ERD] (https://github.com/mdknrs/ICT_project/blob/main/Database%20ER%20diagram%20(crow's%20foot).png)
